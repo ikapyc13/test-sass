@@ -1,0 +1,23 @@
+.header {
+  height: 100px;
+  color: #18c018;
+  background-color: indianred;
+}
+
+body {
+  color: red;
+}
+
+body div {
+  background-color: #000;
+}
+
+body div.header {
+  background-color: #fff;
+  -webkit-transform: translate(-50%, 40px);
+      -ms-transform: translate(-50%, 40px);
+          transform: translate(-50%, 40px);
+  color: red;
+  background-color: indigo;
+  height: 20px;
+}

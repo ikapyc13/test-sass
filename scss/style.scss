@@ -1,0 +1,16 @@
+@import "_header";
+
+body {
+    color: red;
+    div {
+        background-color: #000;
+        &.header {
+            background-color:#fff;
+            transform: translate(-50%, 40px);
+            color: red;
+            background-color: indigo;
+            height: 20px;
+        }
+    }
+    
+}
