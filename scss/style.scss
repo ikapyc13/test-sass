@@ -5,6 +5,7 @@ body {
     div {
         background-color: #000;
         &.header {
+            width: 10px;
             background-color:#fff;
             transform: translate(-50%, 40px);
             color: red;
