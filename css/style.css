@@ -13,11 +13,12 @@ body div {
 }
 
 body div.header {
+  width: 20px;
   background-color: #fff;
-  -webkit-transform: translate(-50%, 40px);
-      -ms-transform: translate(-50%, 40px);
-          transform: translate(-50%, 40px);
+  -webkit-transform: translate(-50%, 50px);
+      -ms-transform: translate(-50%, 50px);
+          transform: translate(-50%, 50px);
   color: red;
   background-color: indigo;
-  height: 20px;
+  height: 920px;
 }
