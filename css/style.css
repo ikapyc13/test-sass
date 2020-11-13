@@ -24,4 +24,8 @@ body div.header {
   height: 1940px;
   width: 450px;
   padding: 40px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
 }
