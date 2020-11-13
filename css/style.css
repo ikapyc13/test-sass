@@ -2,6 +2,7 @@
   height: 100px;
   color: #18c018;
   background-color: indianred;
+  padding: 10px;
 }
 
 body {
@@ -21,4 +22,6 @@ body div.header {
   color: red;
   background-color: indigo;
   height: 1940px;
+  width: 450px;
+  padding: 40px;
 }

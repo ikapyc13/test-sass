@@ -1,4 +1,4 @@
-@import "_header";
+@import "_header.scss";
 
 body {
     color: red;
@@ -11,6 +11,8 @@ body {
             color: red;
             background-color: indigo;
             height: 1940px;
+            width: 450px;
+            padding: 40px;
         }
     }
     
